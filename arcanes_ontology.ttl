@@ -25,6 +25,31 @@ arcn:EffetMediatique a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
+arcn:EffetsTechniques a rdfs:Class ;
+    rdfs:label "EffetsTechniques" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+arcn:EffetsRhétorique a rdfs:Class ;
+    rdfs:label "EffetsRhétorique" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+arcn:EffetsSurLeSpectateur a rdfs:Class ;
+    rdfs:label "EffetsSurLeSpectateur" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+arcn:EffetsDesMédiasSociaux a rdfs:Class ;
+    rdfs:label "EffetsDesMédiasSociaux" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+arcn:EffetsDePrésenceEmbrayeurs a rdfs:Class ;
+    rdfs:label "EffetsDePrésenceEmbrayeurs" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
 arcn:TypeEffetMediatique a rdfs:Class ;
     rdfs:label "TypeEffetMédiatique" ;
     rdfs:domain o:Resource ;
